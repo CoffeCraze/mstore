@@ -248,11 +248,10 @@ h1 {
 .nav-list {
   list-style: none;
   display: flex;
-  gap: 30px;
+  gap: 20px;
 }
 
 .nav-list li a {
-  font-size: 18px;
   color: white;
   text-decoration: none;
   font-weight: bold;
